@@ -1,0 +1,7 @@
+numpy==1.23.1
+colcon-common-extensions==0.3.0
+torch==2.1.1+cu118 -f https://download.pytorch.org/whl/torch_stable.html -i https://pypi.tuna.tsinghua.edu.cn/simple
+rospkg==1.4.0
+pyyaml==6.0.2
+argparse==1.4.0
+ros2-numpy==0.0.5
